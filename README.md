@@ -1,1 +1,5 @@
-# aula02-calculadora-de-comiss-o-2026
+# Calculadora de comissão
+
+Aula: 02
+Data: 25/07/2026
+Autor: Adriano Moura
