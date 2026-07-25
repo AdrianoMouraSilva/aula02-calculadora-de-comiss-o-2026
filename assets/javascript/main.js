@@ -14,7 +14,7 @@ function mostrarComissao(){
 
     const salario = valor.value * 0.08
 
-    resultado.textContent = `${nome.value} o valor das venda é ${valor.value} se seu salário é ${salario}` 
+    resultado.textContent = `${nome.value} o valor das venda é: ${Number(valor.value).toFixed(2)} se seu salário é ${Number(salario).toFixed(2)}` 
     // console.log(nome.value);
     // console.log(valor.value);
     // console.log(salario);
