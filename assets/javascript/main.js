@@ -18,7 +18,6 @@ function mostrarComissao(){
     // console.log(nome.value);
     // console.log(valor.value);
     // console.log(salario);
-    
 }
 
 botaoCalcular.addEventListener('click', mostrarComissao)
